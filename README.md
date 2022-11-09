@@ -25,8 +25,12 @@ times.
 Example 2:
 
 Input:
+
 str = abbbcdddd
+
 Output: a1b3c1d4
+
+
 Your Task:
 Complete the function encode() which takes a character array as a input parameter and returns the encoded string.
 
